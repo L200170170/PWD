@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type="text/css" href="data.css"?>
+<Mahasiswa>
+<ID>
+<NIM>L200170168</NIM>
+<Nama>Dandi Rifai</Nama>
+<Kota>Tokyo</Kota>
+</ID>
+<ID>
+<NIM>L200170170</NIM>
+<Nama>Ahyana</Nama>
+<Kota>Karanganyar</Kota>
+</ID>
+<ID>
+<NIM>L200170171</NIM>
+<Nama>Ino</Nama>
+<Kota>Surakarta</Kota>
+</ID>
+<ID>
+<NIM>L200170175</NIM>
+<Nama>Listian</Nama>
+<Kota>Wonogiri</Kota>
+</ID>
+<ID>
+<NIM>L200170141</NIM>
+<Nama>Rifqi</Nama>
+<Kota>Surakarta</Kota>
+</ID>
+</Mahasiswa>
